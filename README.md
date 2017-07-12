@@ -31,3 +31,11 @@ You should create one R script called run_analysis.R that does the following.
 5.  From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Good luck!
+
+## Project Outcome
+
+In sync with the requirements this project comprises:
+
+a tidy data set based on the original data set: [tidy_data.txt](https://github.com/MatthewGrech/GetAndCleanDataProject/blob/master/tidy_data.txt) and [tidy_data.csv](https://github.com/MatthewGrech/GetAndCleanDataProject/blob/master/tidy_data.csv) (nicely formatted on GitHub)
+an R script called [run_analysis.R](https://github.com/MatthewGrech/GetAndCleanDataProject/blob/master/run_analysis.R) for performing the analysis
+a code book called [CodeBook.md](https://github.com/MatthewGrech/GetAndCleanDataProject/blob/master/CodeBook.md) that describes variables, data and any transformations or work performed to clean up the data
