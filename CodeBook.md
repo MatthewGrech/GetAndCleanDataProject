@@ -13,7 +13,6 @@ Full details and explanations can be found in 'README.txt' in the ZIP file conta
 * The experiments involved a group of 30 volunteers (19 - 48 years of age)
 * Each person performed six activities while wearing a smartphone (Samsung Galaxy S II) on their waist
 * The activities consisted of three types of walking (flat, upstairs and downstairs), sitting, standing and laying
-* The experiments have been [video recorded (YouTube)](http://www.youtube.com/watch?v=XOEN9W05_4A)
 
 ### Data Partitioning
 The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
